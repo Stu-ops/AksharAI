@@ -1,19 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Hindi OCR API</title>
-  <style>
-    body { font-family: Arial, sans-serif; max-width: 800px; margin: 2em auto; line-height: 1.6; padding: 0 1em; }
-    h1, h2, h3 { color: #333; }
-    pre { background: #f4f4f4; padding: 1em; overflow-x: auto; }
-    code { font-family: Consolas, monospace; background: #f4f4f4; padding: 0.2em 0.4em; }
-    hr { border: none; border-top: 1px solid #ddd; margin: 2em 0; }
-    ul { margin-left: 1.2em; }
-  </style>
-</head>
-<body>
-
   <h1>Hindi OCR API</h1>
   <p>An easy‑to‑use OCR service for handwritten Hindi text. Built with <strong>FastAPI</strong>, <strong>OpenCV</strong>, and <strong>TensorFlow/PyTorch</strong>, it detects word regions, extracts text, and classifies snippets.
   </p>
